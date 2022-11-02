@@ -1,0 +1,12 @@
+config.py
+/__pycache__
+/build
+/dist
+gui.spec
+main.py
+print_updates.py
+quart_login.py
+session_nocomms.session
+tgpacks_config_backup.json
+tgpacks_config.json
+tgpacks_session.session
